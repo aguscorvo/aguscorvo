@@ -1,11 +1,12 @@
 ﻿
-Hi, I’m Agustina and I’m studying to became a Full Stack Developer.
+Hi, I'm Agustina and I'm a Full-Stack Developer.
 
 Currently learning:
 - VanillaJS
 - Vue.js
-- Nuxt.js
+- Git
 
 Next:
+- Ruby
 - NoSQL
 - Functional testing
