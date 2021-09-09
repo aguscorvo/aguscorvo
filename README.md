@@ -1,12 +1,10 @@
 ﻿
-Hi, I'm Agustina and I'm a Full-Stack Developer.
+Hi, I'm Agustina! I'm a very curious person and I'm passionate about programming 👩🏻‍💻.
 
 Currently learning:
-- VanillaJS
-- Vue.js
-- Git
-
-Next:
-- Ruby
+- Ruby on Rails 💎
 - NoSQL
 - Functional testing
+
+Next:
+- React ⚛️
