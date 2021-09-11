@@ -7,4 +7,4 @@ Currently learning:
 - Functional testing
 
 Next:
-- React ⚛️
+- React
