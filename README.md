@@ -5,6 +5,4 @@ Currently learning:
 - Ruby on Rails 💎
 - NoSQL
 - Functional testing
-
-Next:
 - React
