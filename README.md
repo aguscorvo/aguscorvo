@@ -4,9 +4,9 @@ I'm a Full Stack Developer currently seeking opportunities to enhance my skills 
 
 #### My Development Toolbelt:
 <p>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=html5&color=e34c26&logo=html5&logoColor=FFFFFF&label=" />
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=css3&color=264de4&logo=css3&logoColor=FFFFFF&label=" />
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=F0DB4F&logo=javascript&logoColor=000000&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=html5&color=e34c26&logo=html5&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=css3&color=264de4&logo=css3&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=F0DB4F&logo=javascript&logoColor=000000&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=react&color=61DAFB&logo=react&logoColor=000000&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=typescript&color=007acc&logo=typescript&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=next.js&color=FFFFFF&logo=next.js&logoColor=000000&label=" />
@@ -21,7 +21,7 @@ I'm a Full Stack Developer currently seeking opportunities to enhance my skills 
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=mongodb&color=00684a&logo=mongodb&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=docker&color=1e63ed&logo=docker&logoColor=FFFFFF&label=" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=java&color=f89820&logo=java&logoColor=FFFFFF&label=" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=c++&color=044F88&logo=cplusplus&logoColor=FFFFFF&label=" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=044F88&logo=cplusplus&logoColor=FFFFFF&label=" />
 </p>
 
 #### Fun facts:
@@ -30,8 +30,8 @@ I'm a Full Stack Developer currently seeking opportunities to enhance my skills 
 - 💪🏼🎾⛰️ My other passion is sports: I attend the gym, play tennis, and enjoy trekking in mountains and lakes during vacations.
   
 #### How to contact me:
-  <p>
-  <a target="_blank" href="https://www.linkedin.com/in/agustinacorvo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://twitter.com/agustina_corvo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a target="_blank" href="mailto:agustinacorvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>
+    <a target="_blank" href="https://www.linkedin.com/in/agustinacorvo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a target="_blank" href="https://twitter.com/agustina_corvo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a target="_blank" href="mailto:agustinacorvo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
